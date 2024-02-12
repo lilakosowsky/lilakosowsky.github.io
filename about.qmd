@@ -16,6 +16,4 @@ about:
 
 ---
 
-About this blog
-
-Hello
+This is the about page
